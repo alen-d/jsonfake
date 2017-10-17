@@ -1,11 +1,47 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "data": {
+        "userInfo": {
+          "id": {
+            "title": "ID",
+            "value": "7",
+            "type": "string",
+            "editable": "false"
+          },
+          "uuid": {
+            "title": "UUID",
+            "value": "hfhsdzasad",
+            "type": "string",
+            "editable": "false"
+          },
+          "firstName": {
+            "title": "First Name",
+            "value": "Alen",
+            "type": "string",
+            "editable": "false"
+          },
+          "lastName": {
+            "title": "Last Name",
+            "value": "Delibegovic",
+            "type": "string",
+            "editable": "false"
+          },
+          "userName": {
+            "title": "User Name",
+            "value": "Alen Delibegovi\u0107",
+            "type": "string",
+            "editable": "false"
+          },
+          "userPicture": {
+            "title": "Picture",
+            "value": "https:\/\/lh6.googleusercontent.com\/-zw-OQ2-iXGM\/AAAAAAAAAAI\/AAAAAAAACG0\/9QTBCpM91SA\/photo.jpg",
+            "type": "url",
+            "editable": "false"
+          }
+        },
+        "userPremissions": []
+      }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
